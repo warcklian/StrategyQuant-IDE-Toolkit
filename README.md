@@ -5,6 +5,11 @@
 **Telegram:** [Grupo de soporte y discusión](https://t.me/g69I5IygZJNlZTJh)  
 **Licencia:** MIT
 
+![Vista general](screenshots/01.png)
+![Vista general](screenshots/02.png)
+![Vista general](screenshots/03.png)
+![Vista general](screenshots/04.png)
+
 ---
 
 ## ¿Qué es StrategyQuant-IDE-Toolkit?
