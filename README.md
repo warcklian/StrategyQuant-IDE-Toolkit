@@ -27,6 +27,11 @@ El editor soporta múltiples pestañas, resaltado de sintaxis avanzado, temas pe
 - **Resaltado de sintaxis** contextual y adaptable al tema.
 - **Soporte para atajos estándar:** Ctrl+N (Nuevo), Ctrl+O (Abrir), Ctrl+S (Guardar), Ctrl+Shift+S (Guardar como...), Ctrl+E (Exportar a StrategyQuant), F7 (Compilar), F1 (Ayuda).
 
+![Vista general](screenshots/01.png)
+![Vista general](screenshots/02.png)
+![Vista general](screenshots/03.png)
+![Vista general](screenshots/04.png)
+
 ---
 
 #######################################################################################################################
@@ -176,8 +181,5 @@ Créditos
 Desarrollado por Jorge Octavio Gómez González
 Repositorio: github.com/warcklian
 
-![Vista general](screenshots/01.png)
-![Vista general](screenshots/02.png)
-![Vista general](screenshots/03.png)
-![Vista general](screenshots/04.png)
+
 
