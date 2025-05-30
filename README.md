@@ -7,6 +7,8 @@
 
 ---
 
+Download here: https://github.com/warcklian/StrategyQuant-IDE-Toolkit/releases
+
 ## ¿Qué es StrategyQuant-IDE-Toolkit?
 
 Es un entorno de desarrollo profesional, multiplataforma (versión inicial para Windows) orientado a traders algorítmicos, quants y programadores que trabajan con **StrategyQuant X**. Permite crear, editar, compilar, organizar y exportar estrategias, indicadores y plantillas, con un enfoque moderno tipo Visual Studio Code. 
