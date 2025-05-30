@@ -7,7 +7,11 @@
 
 ---
 
-Download here: https://github.com/warcklian/StrategyQuant-IDE-Toolkit/releases
+Direct Download: 
+https://github.com/warcklian/StrategyQuant-IDE-Toolkit/releases/download/v0.9.4-beta1/StrategyQuant-IDE-Toolkit-v0.9.4-beta1.exe 
+
+Repository:
+https://github.com/warcklian/StrategyQuant-IDE-Toolkit/releases
 
 ## ¿Qué es StrategyQuant-IDE-Toolkit?
 
